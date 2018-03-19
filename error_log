@@ -1,0 +1,458 @@
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Notice:  Undefined index: lat in /home/rvtiincu/public_html/trashmonitor/bin.php on line 9
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Notice:  Undefined index: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 10
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/public_html/trashmonitor/bin.php on line 11
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 12
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rvtiincu/public_html/trashmonitor/bin.php on line 13
+[02-Mar-2018 05:18:54 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 17
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Notice:  Undefined index: lat in /home/rvtiincu/public_html/trashmonitor/bin.php on line 9
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Notice:  Undefined index: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 10
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/public_html/trashmonitor/bin.php on line 11
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 12
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rvtiincu/public_html/trashmonitor/bin.php on line 13
+[02-Mar-2018 05:22:38 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/public_html/trashmonitor/bin.php on line 17
+[02-Mar-2018 05:30:09 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '?' in /home/rvtiincu/public_html/trashmonitor/bin.php on line 7
+[02-Mar-2018 09:11:15 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_IF in /home/rvtiincu/public_html/trashmonitor/updater.php on line 14
+[02-Mar-2018 09:21:09 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/public_html/trashmonitor/updater.php on line 89
+[02-Mar-2018 09:22:52 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/public_html/trashmonitor/updater.php on line 89
+[02-Mar-2018 09:25:47 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/public_html/trashmonitor/updater.php on line 89
+[02-Mar-2018 09:30:48 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[02-Mar-2018 09:30:48 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[02-Mar-2018 09:30:48 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[02-Mar-2018 09:36:56 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[02-Mar-2018 09:36:56 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[02-Mar-2018 09:36:56 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/public_html/trashmonitor/updater.php on line 7
+[03-Mar-2018 11:13:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 11:13:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 11:13:38 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:05 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:05 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:05 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:12 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:18 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:18 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:18 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:25 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:31 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:31 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:31 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:38 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:44 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:44 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:44 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:51 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:51 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:51 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:57 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:57 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:24:57 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:04 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:04 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:04 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:12 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:18 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:18 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:18 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:25 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:31 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:31 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:31 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:38 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:44 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:44 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:44 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:51 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:51 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:25:51 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:02 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:02 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:02 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:09 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:09 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:09 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:16 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:16 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:16 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:27 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:27 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:27 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:34 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:41 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:41 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:41 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:47 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:47 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:47 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:26:53 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:09 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:09 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:09 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:16 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:16 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:16 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:22 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:22 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:22 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:29 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:29 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:29 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:35 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:35 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:35 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:41 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:41 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:41 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:48 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:48 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:48 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:54 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:54 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:27:54 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:28:00 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:28:00 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:28:00 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:40:53 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 19:43:44 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 19:46:08 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 19:46:22 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 19:47:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected $end in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 112
+[03-Mar-2018 19:50:58 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 8
+[03-Mar-2018 19:52:46 Africa/Nairobi] PHP Parse error:  syntax error, unexpected $end in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 112
+[03-Mar-2018 19:54:44 Africa/Nairobi] PHP Notice:  Undefined variable: lat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:54:44 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:55:59 Africa/Nairobi] PHP Notice:  Undefined variable: lat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:55:59 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:55:59 Africa/Nairobi] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 35
+[03-Mar-2018 19:55:59 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 77
+[03-Mar-2018 19:56:06 Africa/Nairobi] PHP Notice:  Undefined variable: lat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:56:06 Africa/Nairobi] PHP Notice:  Undefined variable: lng in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 19:56:06 Africa/Nairobi] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 35
+[03-Mar-2018 19:56:06 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 77
+[03-Mar-2018 19:58:41 Africa/Nairobi] PHP Notice:  Undefined variable: message in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 77
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 11
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 21
+[03-Mar-2018 20:18:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 21
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:15 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:21 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:28 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:41 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:48 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:18:54 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:01 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:08 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:14 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:20 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:27 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:34 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:40 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:19:59 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:31 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:38 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:20:53 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:00 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:06 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:12 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:19 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:25 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:32 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:39 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 7
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 37
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: latitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:21:45 Africa/Nairobi] PHP Notice:  Undefined index: longitude in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/updater.php on line 47
+[03-Mar-2018 20:56:48 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 5
+[03-Mar-2018 20:56:54 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 5
+[03-Mar-2018 21:01:32 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 5
+[03-Mar-2018 21:17:08 Africa/Nairobi] PHP Notice:  Undefined variable: seat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 3
+[03-Mar-2018 21:17:08 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 6
+[03-Mar-2018 21:17:08 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:17:08 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:17:08 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:18:59 Africa/Nairobi] PHP Notice:  Undefined variable: seat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 3
+[03-Mar-2018 21:18:59 Africa/Nairobi] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 26
+[03-Mar-2018 21:18:59 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:18:59 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:18:59 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:19:02 Africa/Nairobi] PHP Notice:  Undefined variable: seat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 3
+[03-Mar-2018 21:19:02 Africa/Nairobi] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 26
+[03-Mar-2018 21:19:02 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:19:02 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:19:02 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:25:41 Africa/Nairobi] PHP Notice:  Undefined variable: seat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 3
+[03-Mar-2018 21:25:41 Africa/Nairobi] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 26
+[03-Mar-2018 21:25:44 Africa/Nairobi] PHP Notice:  Undefined variable: seat in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 3
+[03-Mar-2018 21:25:44 Africa/Nairobi] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/DBController.php on line 26
+[03-Mar-2018 21:27:51 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:27:51 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:27:51 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:29:29 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:29:29 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 19
+[03-Mar-2018 21:29:29 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 19
+[03-Mar-2018 21:29:32 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:29:32 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 19
+[03-Mar-2018 21:29:32 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 19
+[03-Mar-2018 21:31:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 13
+[03-Mar-2018 21:32:02 Africa/Nairobi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 10
+[03-Mar-2018 21:32:02 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 17
+[03-Mar-2018 21:32:02 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 17
+[03-Mar-2018 21:34:26 Africa/Nairobi] PHP Notice:  Undefined variable: result in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 8
+[03-Mar-2018 21:34:26 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 8
+[03-Mar-2018 21:36:31 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 8
+[03-Mar-2018 21:36:58 Africa/Nairobi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 8
+[03-Mar-2018 21:41:32 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 21:41:32 Africa/Nairobi] PHP Notice:  Undefined index: state in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 22:01:48 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 21
+[03-Mar-2018 22:01:51 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 21
+[03-Mar-2018 22:02:31 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 22:02:54 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 22:07:20 Africa/Nairobi] PHP Notice:  Undefined offset: 0 in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 22:07:20 Africa/Nairobi] PHP Notice:  Undefined offset: 0 in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 20
+[03-Mar-2018 22:10:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '{' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:10:49 Africa/Nairobi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 23
+[03-Mar-2018 22:13:54 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:14:27 Africa/Nairobi] PHP Notice:  Undefined offset: 2 in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:14:27 Africa/Nairobi] PHP Notice:  Undefined offset: 2 in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:24:16 Africa/Nairobi] PHP Fatal error:  Call to undefined function substring() in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:24:19 Africa/Nairobi] PHP Fatal error:  Call to undefined function substring() in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:25:13 Africa/Nairobi] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 23
+[03-Mar-2018 22:25:13 Africa/Nairobi] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 23
+[03-Mar-2018 22:27:24 Africa/Nairobi] PHP Parse error:  syntax error, unexpected ',' in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:28:02 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:28:57 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:30:18 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:30:45 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:31:25 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:35:03 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 25
+[03-Mar-2018 22:35:45 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 25
+[03-Mar-2018 22:36:18 Africa/Nairobi] PHP Parse error:  syntax error, unexpected T_STRING in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 25
+[03-Mar-2018 22:36:51 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:40:09 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[03-Mar-2018 22:40:23 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:43:26 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:44:00 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:47:16 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:47:37 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:49:37 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:50:25 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:52:06 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:53:34 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:54:55 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:56:25 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:57:24 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[03-Mar-2018 22:58:24 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[04-Mar-2018 07:03:59 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[04-Mar-2018 07:11:20 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[04-Mar-2018 18:59:44 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[05-Mar-2018 18:06:29 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/pullup.php on line 22
+[05-Mar-2018 18:06:44 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[05-Mar-2018 18:07:36 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[07-Mar-2018 15:26:56 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
+[08-Mar-2018 14:15:56 Africa/Nairobi] PHP Notice:  Undefined variable: msg in /home/rvtiincu/trashmonitor.rvti-incubator.co.ke/map.php on line 22
